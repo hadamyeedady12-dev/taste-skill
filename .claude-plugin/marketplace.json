@@ -1,0 +1,15 @@
+{
+  "name": "taste-skill-marketplace",
+  "owner": {
+    "name": "Lex Lin",
+    "email": "hello@learn2vibecode.dev"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "source": ".",
+      "description": "A collection of skills that improve how AI tools write frontend code. Generates modern, premium designs with proper animations, spacing, and visual quality instead of generic interfaces.",
+      "version": "1.0.0"
+    }
+  ]
+}
