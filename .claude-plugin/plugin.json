@@ -1,0 +1,24 @@
+{
+  "name": "taste-skill",
+  "description": "A collection of skills that improve how AI tools write frontend code. Generates modern, premium designs with proper animations, spacing, and visual quality instead of generic interfaces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lex Lin",
+    "url": "https://x.com/lexnlin"
+  },
+  "homepage": "https://github.com/hadamyeedady12/taste-skill",
+  "repository": "https://github.com/hadamyeedady12/taste-skill",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "design",
+    "ui",
+    "ux",
+    "tailwind",
+    "react",
+    "nextjs",
+    "animation",
+    "premium-design"
+  ],
+  "skills": ["./skills/"]
+}

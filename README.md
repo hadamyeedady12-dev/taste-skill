@@ -28,6 +28,29 @@ Stops the AI from being lazy. Prevents placeholder comments, skipped code blocks
 
 ## How to Use
 
+### Option 1: Claude Code Plugin (Recommended)
+
+Install as a plugin directly in Claude Code:
+
+```
+/plugin install taste-skill
+```
+
+Then use the skills as slash commands:
+
+- `/taste-skill:taste` — Main design skill for building premium frontends from scratch
+- `/taste-skill:soft` — Premium visual design with agency-level polish
+- `/taste-skill:output` — Full output enforcement (prevents lazy/truncated AI output)
+- `/taste-skill:redesign` — Audit and upgrade existing projects
+
+You can also add this repository as a custom marketplace:
+
+```
+/plugin marketplace add hadamyeedady12/taste-skill
+```
+
+### Option 2: Manual
+
 1. Copy the `SKILL.md` file from the skill folder you need into your project.
 2. Tell your AI to read and follow it. In most editors you can just reference it directly (e.g. `@SKILL.md` in Cursor).
 
